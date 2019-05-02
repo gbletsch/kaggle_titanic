@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# scratches and data_files
+/titanic
+kernel .ipynb
